@@ -5,6 +5,7 @@ Subindo o projeto Node.JS do nlw (rocketseat)
 
     - Prisma
     - Typescript
-    - Node
-    - Markdown
+    - Node.js
+    - JSON
     - Github and Git
+***
